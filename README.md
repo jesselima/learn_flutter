@@ -1,6 +1,6 @@
 # Fontes de Aprendizado em Flutter
 
-O objetivo é compartilharmos fontes de aprendizado e conhecimentos. Evitem compartilhar bobagens para não causar notificações sem relevância. Faça críticas construtivas.  Tenha coragem de compartilhar coisas legais que você encontrou. Assim todos nós nos ajudamos a aprender mais.
+O objetivo é compartilharmos fontes de aprendizado e conhecimentos. Tenha coragem de compartilhar coisas legais que você encontrou. Assim, todos nós nos ajudamos a aprender mais.
 
 ### Lembrem-se. Ensinar a aprender duas vezes.
 
