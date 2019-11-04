@@ -34,8 +34,6 @@ https://dart.dev/codelabs/async-await
 
 https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo 
 
-https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo 
-
 https://dart.dev/codelabs/dart-cheatsheet 
 
 https://dart.dev/codelabs/async-await 
@@ -173,6 +171,8 @@ https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J
 
 
 ## REPOSITORIES SAMPLES
+
+https://github.com/smartherd/DartTutorial (Play List: https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 
 https://github.com/flutter/codelabs
 
