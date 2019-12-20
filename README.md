@@ -49,9 +49,9 @@ https://pub.dev/packages/flutter_clean_architecture
 
 https://github.com/brianegan/flutter_architecture_samples 
 
-Flutter TDD Clean Architecture Course (Mini Course - 6 parts)
+Flutter TDD Clean Architecture Course (14 parts)
 
-https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/
+https://resocoder.com/flutter-clean-architecture-tdd/
 
 
 
